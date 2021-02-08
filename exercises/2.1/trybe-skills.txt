@@ -1,6 +1,5 @@
-O que vou aprende na Trybe
+O que vou aprender na Trybe
 
 -Unix
 -Bash
 -Git
-phyton
