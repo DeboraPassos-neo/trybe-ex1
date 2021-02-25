@@ -1,7 +1,8 @@
-O que vou aprende na Trybe
+O que vou aprender na Trybe
 
 -Unix
 -Bash
--GitHTML
-CSS
-
+-Git
+-HTML
+-CSS
+-Phyton
