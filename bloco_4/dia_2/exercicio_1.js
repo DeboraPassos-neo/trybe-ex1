@@ -19,4 +19,21 @@ let average = sum / numbers.length
 
 console.log(average);
 
+//exercício 4
+if (average > 20){
+  console.log('valor maior que 20');
+}else{
+  console.log('valor menor ou igual a 20');
+}
+
+//exercicio 5
+let larger = 0; 
+
+for (indexLarger< 0;indexLarger < numbers.length; indexLarger += 1) {
+  if(numbers[indexLarger] > larger);{
+  console.log(larger);
+  }
+}
+
+
 
